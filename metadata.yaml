@@ -37,6 +37,8 @@ description: "The Tin Woodman of Oz: A Faithful Story of the Astonishing Adventu
   \ when he was flesh and blood. This was a back-story from The Wonderful Wizard of\
   \ Oz.\nThe book was dedicated to the author's grandson Frank Alden Baum.\n From\
   \ Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30852#The-Tin-Woodman-of-OzScarecrow-of-Oz-and-Polychrome-the-Rainbow-s-Daughter
 gutenberg_issued: '2010-01-04'
 gutenberg_type: Text
 identifiers:
