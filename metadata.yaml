@@ -1,0 +1,75 @@
+_repo: The-Tin-Woodman-of-OzScarecrow-of-Oz-and-Polychrome-the-Rainbow-s-Daughter_30852
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Neill, John R. (John Rea)
+    alias: Neill, John Rea
+    birthdate: 1877
+    deathdate: 1943
+    gutenberg_agent_id: '26521'
+    url: http://www.gutenberg.org/2009/agents/26521
+    wikipedia: http://en.wikipedia.org/wiki/John_R._Neill
+covers:
+- cover_type: archival
+  image_path: 30852-h/images/icover.jpg
+creator:
+  author:
+    agent_name: Baum, L. Frank (Lyman Frank)
+    aliases:
+    - Akers, Floyd
+    - Fitzgerald, Capt. Hugh
+    - Fitzgerald, Hugh
+    - Baum, Lyman Frank
+    - Cooke, John Estes
+    - Van Dyne, Edith
+    - Metcalf, Suzanne
+    - Bancroft, Laura
+    birthdate: 1856
+    deathdate: 1919
+    gutenberg_agent_id: '42'
+    url: http://www.gutenberg.org/2009/agents/42
+    wikipedia: http://en.wikipedia.org/wiki/L._Frank_Baum
+description: "The Tin Woodman of Oz: A Faithful Story of the Astonishing Adventure\
+  \ Undertaken by the Tin Woodman, Assisted by Woot the Wanderer, the Scarecrow of\
+  \ Oz, and Polychrome, the Rainbow's Daughter is the twelfth Land of Oz book written\
+  \ by L. Frank Baum and was originally published on May 13, 1918. The Tin Woodman\
+  \ is unexpectedly reunited with his Munchkin sweetheart Nimmie Amee from the days\
+  \ when he was flesh and blood. This was a back-story from The Wonderful Wizard of\
+  \ Oz.\nThe book was dedicated to the author's grandson Frank Alden Baum.\n From\
+  \ Wikipedia (CC BY-SA)."
+gutenberg_issued: '2010-01-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30852'
+  wikidata: Q7769442
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Good and evil -- Juvenile fiction'
+- !lcsh 'Witches -- Juvenile fiction'
+- !lcsh 'Soldiers -- Juvenile fiction'
+- !lcsh 'Magic -- Juvenile fiction'
+- !lcsh 'Fantasy literature'
+- !lcc 'PZ'
+- !lcsh 'Boys -- Juvenile fiction'
+- !lcsh 'Princess Ozma (Fictitious character) -- Juvenile fiction'
+- !lcsh 'Gale, Dorothy (Fictitious character) -- Juvenile fiction'
+- !lcsh 'Scarecrow (Fictitious character from Baum) -- Juvenile fiction'
+- !lcsh 'Oz (Imaginary place) -- Juvenile fiction'
+- !lcsh 'Tin Woodman (Fictitious character) -- Juvenile fiction'
+- !lcsh 'Love -- Juvenile fiction'
+- !lcsh 'Wizards -- Juvenile fiction'
+title: 'The Tin Woodman of Oz
+
+  A Faithful Story of the Astonishing Adventure Undertaken
+
+  by the Tin Woodman, assisted by Woot the Wanderer, the
+
+  Scarecrow of Oz, and Polychrome, the Rainbow''s Daughter'
+url: http://www.gutenberg.org/ebooks/30852
+wikipedia:
+- https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%AD%D8%B7%D8%A7%D8%A8_%D8%A7%D9%84%D8%B5%D9%81%D9%8A%D8%AD%D9%8A_%D9%85%D9%86_%D8%A3%D9%88%D8%B2
+- https://en.wikipedia.org/wiki/The_Tin_Woodman_of_Oz
+- https://pt.wikipedia.org/wiki/The_Tin_Woodman_of_Oz
